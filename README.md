@@ -204,7 +204,7 @@ Questa porta svolge la doppia funzione di **Porta ISP** e **Porta I2C** mediante
 ------------
 
 ### Illuminazione Cuccette con Luci Diurne e Notturne
-<img src="https://github.com/TheFidax/TFX063_ACME_UICX_CUCCETTE_COMFORT_H0/blob/main/Images/luci_compartimenti.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX063_ACME_UICX_CUCCETTE_COMFORT_H0/blob/main/Images/luci_cuccette.jpg" width="1280">
 
 Questa scheda fornisce, per ogni Cuccetta, la **doppia illuminazione**: *Diurna* con LED Bianco Freddo e *Notturna* con LED Blu.</br>
 Ogni LED e' indipendente e puo' essere pilotato dal microcontrollore in maniera indipendente dall'altro.</br>
