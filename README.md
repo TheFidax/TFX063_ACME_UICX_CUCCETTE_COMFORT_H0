@@ -9,7 +9,7 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 
 **Ultima Revisione HardWare: 1.01**
 
-**Ultima Revisione SoftWare: 007**
+**Ultima Revisione SoftWare: 008**
 
 **Alcune Immagini Dimostrative:**
 
