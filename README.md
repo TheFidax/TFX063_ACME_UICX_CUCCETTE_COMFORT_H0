@@ -256,6 +256,10 @@ Il connettore PluX fornisce il collegamento alle rotaie (per portare i comandi a
 
 **ATTENZIONE! Non è previsto un "motore fittizio" pertanto in caso di decoder "per locomotive" la *Lettura/Scrittura* delle CVs e' permessa soltanto tramite *PoM!***
 
+*N.B.* Data la presenza di una zona nascosta e' possibile inserire lì un decoder esterno non compatibile con l'altezza della carrozza, oppure con connettore diverso.</br>
+Esempio: Decoder [Maerklin mLD3] (https://www.maerklin.de/en/products/details/article/60972/) con **connettore 21MTC** collegato mediante extender.
+<img src="https://github.com/TheFidax/TFX063_ACME_UICX_CUCCETTE_COMFORT_H0/blob/main/Images/decoder_extender.jpg" width="1280">
+
 ------------
 
 ### Porta SUSI
